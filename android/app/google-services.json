@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "682264392784",
+    "firebase_url": "https://flutter-taxi-app-769a1-default-rtdb.firebaseio.com",
+    "project_id": "flutter-taxi-app-769a1",
+    "storage_bucket": "flutter-taxi-app-769a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682264392784:android:c53ea606cc49d261afcd55",
+        "android_client_info": {
+          "package_name": "com.mohk.flutter.taxiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrQ1N2Cpz_Mj_SOnFWVZyoi73Lasxe7hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
